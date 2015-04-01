@@ -1,1 +1,2 @@
-可滑动的Android页面布局，上层View可以在一定范围内自由浮动，实现较为炫酷的页面效果~~
+Sliding layout which can make your view or viewgroup float on your layout of Android application.
+鍙粦鍔ㄧ殑Android椤甸潰甯冨眬锛屼笂灞俈iew鍙互鍦ㄤ竴瀹氳寖鍥村唴鑷敱娴姩锛屽疄鐜拌緝涓虹偒閰风殑椤甸潰鏁堟灉~~
